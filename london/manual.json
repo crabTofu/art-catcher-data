@@ -1,0 +1,43 @@
+{
+  "note": "Museums whose sites block scripts. Copy title, dates and link from each site's exhibitions page; dates as YYYY-MM-DD (start null = already open). Past shows are dropped automatically.",
+  "checked": {
+    "British Museum": "2026-11-26",
+    "Royal Academy of Arts": "2026-11-26",
+    "Hayward Gallery": "2026-11-26",
+    "Dulwich Picture Gallery": "2026-11-26",
+    "National Portrait Gallery": "not yet: the site asks for a human check"
+  },
+  "pages": {
+    "British Museum": "https://www.britishmuseum.org/exhibitions-events?whats_on_who=See%20everything",
+    "Royal Academy of Arts": "https://www.royalacademy.org.uk/exhibitions-and-events?what-filter=exhibitions",
+    "Hayward Gallery": "https://www.southbankcentre.co.uk/whats-on/?artform-filter=art-exhibitions",
+    "Dulwich Picture Gallery": "https://www.dulwichpicturegallery.org.uk/whats-on/",
+    "National Portrait Gallery": "https://www.npg.org.uk/whatson/exhibitions"
+  },
+  "exhibitions": [
+    {"title": "Declaring independence: USA 250", "venue": "British Museum", "start": "2026-06-30", "end": "2026-11-29", "url": "https://www.britishmuseum.org/exhibitions/declaring-independence-usa-250"},
+    {"title": "Korea", "venue": "British Museum", "start": "2026-10-01", "end": "2027-01-31", "url": "https://www.britishmuseum.org/exhibitions/korea"},
+    {"title": "Multiplied wonders: Italian Renaissance woodcuts", "venue": "British Museum", "start": "2026-10-08", "end": "2027-03-21", "url": "https://www.britishmuseum.org/exhibitions/multiplied-wonders-italian-renaissance-woodcuts"},
+    {"title": "The Bayeux Tapestry", "venue": "British Museum", "start": "2026-09-10", "end": "2027-07-11", "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry"},
+
+    {"title": "Painting the French Riviera", "venue": "Royal Academy of Arts", "start": "2026-10-02", "end": "2027-01-31", "url": "https://www.royalacademy.org.uk/exhibition/painting-the-french-riviera"},
+    {"title": "SEQUENCE", "venue": "Royal Academy of Arts", "start": "2026-11-20", "end": "2027-01-10", "url": "https://www.royalacademy.org.uk/exhibition/raschools-show-sequence"},
+    {"title": "Peggy Guggenheim in London: The Making of a Collector", "venue": "Royal Academy of Arts", "start": "2026-11-21", "end": "2027-03-14", "url": "https://www.royalacademy.org.uk/exhibition/peggy-guggenheim-in-london"},
+    {"title": "Rembrandt: Radical Printmaker", "venue": "Royal Academy of Arts", "start": "2027-04-09", "end": "2027-09-19", "url": "https://www.royalacademy.org.uk/exhibition/rembrandt"},
+    {"title": "Summer Exhibition 2027", "venue": "Royal Academy of Arts", "start": "2027-05-18", "end": "2027-08-15", "url": "https://www.royalacademy.org.uk/exhibition/summer-exhibition-2027"},
+    {"title": "Young Artists' Summer Show 2027", "venue": "Royal Academy of Arts", "start": "2027-07-13", "end": "2027-08-29", "url": "https://www.royalacademy.org.uk/exhibition/young-artists-summer-show-2027"},
+    {"title": "Simone Leigh", "venue": "Royal Academy of Arts", "start": "2027-09-18", "end": "2027-12-12", "url": "https://www.royalacademy.org.uk/exhibition/simone-leigh"},
+    {"title": "Matisse, Picasso, Klee: Masterpieces from the Museum Berggruen", "venue": "Royal Academy of Arts", "start": "2027-11-19", "end": "2028-03-19", "url": "https://www.royalacademy.org.uk/exhibition/matisse-picasso-klee"},
+
+    {"title": "Nan Goldin: You Never Did Anything Wrong", "venue": "Hayward Gallery", "start": "2026-11-24", "end": "2027-03-14", "url": "https://www.southbankcentre.co.uk/whats-on/nan-goldin-you-never-did-anything-wrong/"},
+    {"title": "Andrius Arutiunian: They Tried to Count Us", "venue": "Hayward Gallery", "start": "2026-11-24", "end": "2027-03-07", "url": "https://www.southbankcentre.co.uk/whats-on/andrius-arutiunian-they-tried-to-count-us/"},
+
+    {"title": "Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection", "venue": "Dulwich Picture Gallery", "start": "2026-10-20", "end": "2027-01-17", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/"},
+    {"title": "Charlie Mackesy: The Boy, the Mole, the Fox, the Horse...and You", "venue": "Dulwich Picture Gallery", "start": "2026-11-03", "end": "2027-02-07", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/charlie-mackesy-the-boy-the-fox-the-mole-the-horse-and-you/"},
+    {"title": "Jacqueline Marval: When in Paris", "venue": "Dulwich Picture Gallery", "start": "2027-02-02", "end": "2027-05-09", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/jacqueline-marval/"},
+    {"title": "Sahara Longe", "venue": "Dulwich Picture Gallery", "start": "2027-02-16", "end": "2027-06-13", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/sahara-longe/"},
+    {"title": "David Shrigley", "venue": "Dulwich Picture Gallery", "start": "2027-05-25", "end": "2027-09-05", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/david-shrigley/"},
+    {"title": "Anwar Jalal Shemza: A Circle, A Square, A Puzzle", "venue": "Dulwich Picture Gallery", "start": "2027-09-21", "end": "2028-01-16", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/anwar-shemza/"},
+    {"title": "Caroline Walker", "venue": "Dulwich Picture Gallery", "start": "2027-10-12", "end": "2028-03-19", "url": "https://www.dulwichpicturegallery.org.uk/whats-on/caroline-walker/"}
+  ]
+}

@@ -1,0 +1,878 @@
+{
+  "version": 1,
+  "city": "London",
+  "updated": "2026-11-26",
+  "note": "Titles, venues, dates and links only. Details belong to each museum: follow the link.",
+  "exhibitions": [
+    {
+      "id": "6b87cb091f71",
+      "title": "Declaring independence: USA 250",
+      "venue": "British Museum",
+      "url": "https://www.britishmuseum.org/exhibitions/declaring-independence-usa-250",
+      "start": "2026-06-30",
+      "end": "2026-11-29",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "f32ca57d197e",
+      "title": "Winston Churchill: The Painter",
+      "venue": "The Wallace Collection",
+      "url": "https://www.wallacecollection.org/whats-on/exhibitions-displays/winston-churchill-the-painter/",
+      "start": "2026-05-23",
+      "end": "2026-11-29",
+      "dates": "23 May – 29 November 2026",
+      "source": "Wallace Collection"
+    },
+    {
+      "id": "fd2ead5f93ad",
+      "title": "The Film London Jarman Award 2026",
+      "venue": "Whitechapel Gallery",
+      "url": "https://www.whitechapelgallery.org/exhibitions/the-film-london-jarman-award-2026/",
+      "start": "2026-11-17",
+      "end": "2026-12-13",
+      "dates": "17 Nov - 13 Dec 2026",
+      "source": "Whitechapel Gallery"
+    },
+    {
+      "id": "26ada079ba18",
+      "title": "Frida: The Making of an Icon",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
+      "start": null,
+      "end": "2027-01-03",
+      "dates": "Until 3 Jan 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "b9bea0aa365d",
+      "title": "Justin Caguiat: Change Ringing",
+      "venue": "Serpentine South Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/justin-caguiat-change-ringing/",
+      "start": null,
+      "end": "2027-01-10",
+      "dates": "Until 10 January 2027",
+      "source": "Serpentine"
+    },
+    {
+      "id": "b1ada8efc345",
+      "title": "LAIKA presents Wildwood: The Exhibition",
+      "venue": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition",
+      "start": null,
+      "end": "2027-01-10",
+      "dates": "Book now: Until 10 January 2027",
+      "source": "Design Museum"
+    },
+    {
+      "id": "ac284ef44f39",
+      "title": "Modern Painting from the Courtauld and Reuben Collections",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-modern-painting-from-the-courtauld-and-reuben-collections/",
+      "start": "2026-10-02",
+      "end": "2027-01-10",
+      "dates": "2 October 2026 – 10 January 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "61ea0070696a",
+      "title": "Rising Voices: Contemporary Art from Asia, Australia and the Pacific",
+      "venue": "V&A South Kensington",
+      "url": "https://www.vam.ac.uk/exhibitions/rising-voices-contemporary-art-from-asia-australia-and-the-pacific",
+      "start": null,
+      "end": "2027-01-10",
+      "dates": "Closes Sunday, 10 January 2027",
+      "source": "V&A"
+    },
+    {
+      "id": "480819655e8c",
+      "title": "SEQUENCE",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/raschools-show-sequence",
+      "start": "2026-11-20",
+      "end": "2027-01-10",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "c3abc25c700d",
+      "title": "The Music is Black: A British Story",
+      "venue": "V&A East Museum",
+      "url": "https://www.vam.ac.uk/exhibitions/the-music-is-black-a-british-story",
+      "start": null,
+      "end": "2027-01-10",
+      "dates": "Closes Sunday, 10 January 2027",
+      "source": "V&A"
+    },
+    {
+      "id": "2ee7949bdee0",
+      "title": "Ana Mendieta",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/ana-mendieta",
+      "start": null,
+      "end": "2027-01-17",
+      "dates": "Until 17 Jan 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "7d3287993d14",
+      "title": "Hokusai: Thirty-six Views of Mount Fuji from the Iuchi Collection",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/hokusai-thirty-six-views-of-mt-fuji-from-the-iuchi-collection/",
+      "start": "2026-10-20",
+      "end": "2027-01-17",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "fcaca40ea548",
+      "title": "Screen Portraits: Whitechapel Gallery Artists – Part 2",
+      "venue": "Whitechapel Gallery",
+      "url": "https://www.whitechapelgallery.org/exhibitions/screen-portraits-whitechapel-gallery-artists-part-2/",
+      "start": "2026-10-07",
+      "end": "2027-01-17",
+      "dates": "7 Oct - 17 Jan 2027",
+      "source": "Whitechapel Gallery"
+    },
+    {
+      "id": "e0572c87f1af",
+      "title": "Tate Britain Commission 2026: Zineb Sedira: When Words Fall Silent, Cinema Speaks",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/zineb-sedira",
+      "start": null,
+      "end": "2027-01-17",
+      "dates": "Until 17 Jan 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "b5bacfbac2af",
+      "title": "Vanessa Bell: A Rediscovery",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-vanessa-bell-a-rediscovery/",
+      "start": "2026-10-14",
+      "end": "2027-01-20",
+      "dates": "14 October 2026 - 20 January 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "f01736e406de",
+      "title": "PLATFORM: Simone Brewster",
+      "venue": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/platform-simone-brewster",
+      "start": null,
+      "end": "2027-01-24",
+      "dates": "Free display: Until 24 January 2027",
+      "source": "Design Museum"
+    },
+    {
+      "id": "af08d7333651",
+      "title": "Yuko Mohri: In Concert",
+      "venue": "Barbican Art Gallery",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/yuko-mohri-in-concert",
+      "start": "2026-10-01",
+      "end": "2027-01-24",
+      "dates": "Thu 1 Oct 2026 — Sun 24 Jan 2027",
+      "source": "Barbican"
+    },
+    {
+      "id": "8db99d936c8b",
+      "title": "Amar Kanwar",
+      "venue": "Serpentine North Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/amar-kanwar-exhibition/",
+      "start": null,
+      "end": "2027-01-31",
+      "dates": "Until 31 January 2027",
+      "source": "Serpentine"
+    },
+    {
+      "id": "9014af6286f3",
+      "title": "Korea",
+      "venue": "British Museum",
+      "url": "https://www.britishmuseum.org/exhibitions/korea",
+      "start": "2026-10-01",
+      "end": "2027-01-31",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "d66274f76714",
+      "title": "Painting the French Riviera",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/painting-the-french-riviera",
+      "start": "2026-10-02",
+      "end": "2027-01-31",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "78f4218e45f0",
+      "title": "Renoir and Love",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/renoir-and-love",
+      "start": null,
+      "end": "2027-01-31",
+      "dates": "Until 31 January 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "909296271ec8",
+      "title": "Charlie Mackesy: The Boy, the Mole, the Fox, the Horse...and You",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/charlie-mackesy-the-boy-the-fox-the-mole-the-horse-and-you/",
+      "start": "2026-11-03",
+      "end": "2027-02-07",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "d99144d05fa4",
+      "title": "Yinka Shonibare and Thomas Gainsborough: A Conversation",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/yinka-shonibare-and-thomas-gainsborough-a-conversation",
+      "start": null,
+      "end": "2027-02-07",
+      "dates": "Until 7 February 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "70e831c15496",
+      "title": "Cecilia Vicuña: Foraging Quipu",
+      "venue": "Whitechapel Gallery",
+      "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna-foraging-quipu/",
+      "start": "2026-10-07",
+      "end": "2027-02-14",
+      "dates": "7 Oct - 14 Feb 2027",
+      "source": "Whitechapel Gallery"
+    },
+    {
+      "id": "6bce8528ed3a",
+      "title": "Cecilia Vicuña: Living Threads",
+      "venue": "Whitechapel Gallery",
+      "url": "https://www.whitechapelgallery.org/exhibitions/cecilia-vicuna/",
+      "start": "2026-10-07",
+      "end": "2027-02-14",
+      "dates": "7 Oct - 14 Feb 2027",
+      "source": "Whitechapel Gallery"
+    },
+    {
+      "id": "dd4d00865ee9",
+      "title": "The 90 s",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/the-90s",
+      "start": null,
+      "end": "2027-02-14",
+      "dates": "Until 14 Feb 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "65d9f4f46b87",
+      "title": "Light and Magic: The Birth of Art Photography",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/light-and-magic",
+      "start": null,
+      "end": "2027-02-21",
+      "dates": "Until 21 Feb 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "8d2713707ab9",
+      "title": "Robert Ryman: The Real Thing",
+      "venue": "Barbican Art Gallery",
+      "url": "https://www.barbican.org.uk/whats-on/2026/event/robert-ryman-the-real-thing",
+      "start": "2026-10-08",
+      "end": "2027-02-28",
+      "dates": "Thu 8 Oct 2026 — Sun 28 Feb 2027",
+      "source": "Barbican"
+    },
+    {
+      "id": "1029c788a0f3",
+      "title": "Andrius Arutiunian: They Tried to Count Us",
+      "venue": "Hayward Gallery",
+      "url": "https://www.southbankcentre.co.uk/whats-on/andrius-arutiunian-they-tried-to-count-us/",
+      "start": "2026-11-24",
+      "end": "2027-03-07",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "c3c518c9d43c",
+      "title": "Gathering Ground",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/gathering-ground",
+      "start": null,
+      "end": "2027-03-07",
+      "dates": "Until 7 Mar 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "fddeb2f519ef",
+      "title": "Nan Goldin: You Never Did Anything Wrong",
+      "venue": "Hayward Gallery",
+      "url": "https://www.southbankcentre.co.uk/whats-on/nan-goldin-you-never-did-anything-wrong/",
+      "start": "2026-11-24",
+      "end": "2027-03-14",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "1dea4af1be8c",
+      "title": "Peggy Guggenheim in London: The Making of a Collector",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/peggy-guggenheim-in-london",
+      "start": "2026-11-21",
+      "end": "2027-03-14",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "3daaf7c368ba",
+      "title": "Cosimo I de’ Medici: Art and Dynasty",
+      "venue": "The Wallace Collection",
+      "url": "https://www.wallacecollection.org/whats-on/exhibitions-displays/cosimo-i-de-medici-art-and-dynasty/",
+      "start": "2026-11-18",
+      "end": "2027-03-21",
+      "dates": "18 November 2026–21 March 2027",
+      "source": "Wallace Collection"
+    },
+    {
+      "id": "c9dad21a2426",
+      "title": "Multiplied wonders: Italian Renaissance woodcuts",
+      "venue": "British Museum",
+      "url": "https://www.britishmuseum.org/exhibitions/multiplied-wonders-italian-renaissance-woodcuts",
+      "start": "2026-10-08",
+      "end": "2027-03-21",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "f538dc7065cc",
+      "title": "Es Devlin: Other Worlds",
+      "venue": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/es-devlin-other-worlds",
+      "start": null,
+      "end": "2027-04-04",
+      "dates": "Book now: Until 4 April 2027",
+      "source": "Design Museum"
+    },
+    {
+      "id": "37f076241902",
+      "title": "Hyundai Commission: Tarek Atoui: Hold",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/tarek-atoui",
+      "start": null,
+      "end": "2027-04-11",
+      "dates": "Until 11 Apr 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "43d4ee5a6c59",
+      "title": "Van Eyck: The Portraits",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/van-eyck-the-portraits",
+      "start": null,
+      "end": "2027-04-11",
+      "dates": "Until 11 April 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "576e86329b99",
+      "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/vanessa-bell-and-duncan-grant",
+      "start": null,
+      "end": "2027-04-11",
+      "dates": "Until 11 Apr 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "2ef8cb324372",
+      "title": "Alechinsky: In Paperland",
+      "venue": "Serpentine South Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/pierre-alechinksy/",
+      "start": "2027-02-11",
+      "end": "2027-04-18",
+      "dates": "11 February - 18 April 2027",
+      "source": "Serpentine"
+    },
+    {
+      "id": "4896fea7ca7f",
+      "title": "Metamorphoses: Porcelain Sculpture by Rachel Kneebone",
+      "venue": "The Wallace Collection",
+      "url": "https://www.wallacecollection.org/whats-on/exhibitions-displays/metamorphoses-porcelain-sculpture-by-rachel-kneebone/",
+      "start": "2026-09-23",
+      "end": "2027-04-25",
+      "dates": "23 September 2026–25 April 2027",
+      "source": "Wallace Collection"
+    },
+    {
+      "id": "870801373297",
+      "title": "Julio Le Parc: Light. Colour. Action.",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
+      "start": null,
+      "end": "2027-05-03",
+      "dates": "Until 3 May 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "e181edb0c2a4",
+      "title": "Constantinople to Istanbul: One City, Two Empires",
+      "venue": "V&A South Kensington",
+      "url": "https://www.vam.ac.uk/exhibitions/constantinople-to-istanbul-one-city-two-empires",
+      "start": null,
+      "end": "2027-05-09",
+      "dates": "Closes Sunday, 9 May 2027",
+      "source": "V&A"
+    },
+    {
+      "id": "1501f898628c",
+      "title": "Jacqueline Marval: When in Paris",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/jacqueline-marval/",
+      "start": "2027-02-02",
+      "end": "2027-05-09",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "6db91c0eea3e",
+      "title": "Art Now: Clara Hastrup",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/art-now-clara-hastrup",
+      "start": "2026-12-04",
+      "end": "2027-05-16",
+      "dates": "4 Dec 2026 – 16 May 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "3e7b274eb322",
+      "title": "New Discoveries: Drawing in the Age of Bruegel",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-new-discoveries-drawing-in-the-age-of-bruegel/",
+      "start": "2027-02-05",
+      "end": "2027-05-16",
+      "dates": "5 February – 16 May 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "0800ce256410",
+      "title": "Paula Rego: Dog Woman",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-paula-rego-dog-woman/",
+      "start": "2027-02-05",
+      "end": "2027-05-23",
+      "dates": "5 February – 23 May 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "b99e04fed5de",
+      "title": "Paula Rego: Pendle Witches",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-paula-rego-pendle-witches/",
+      "start": "2027-02-05",
+      "end": "2027-05-23",
+      "dates": "5 February – 23 May 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "b56754cc6511",
+      "title": "Catharina van Hemessen: Signature Works",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/catharina-van-hemessen",
+      "start": "2027-03-04",
+      "end": "2027-05-30",
+      "dates": "4 March – 30 May 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "4f9e056f9aab",
+      "title": "Sahara Longe",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/sahara-longe/",
+      "start": "2027-02-16",
+      "end": "2027-06-13",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "f189f7ab7e67",
+      "title": "Monet: Painting Time",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/monet",
+      "start": "2027-02-25",
+      "end": "2027-06-27",
+      "dates": "25 Feb – 27 Jun 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "fffed963a00d",
+      "title": "Dwellings, Rehomed",
+      "venue": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/dwellings-rehomed",
+      "start": null,
+      "end": "2027-06-30",
+      "dates": "Free garden display: Until June 2027",
+      "source": "Design Museum"
+    },
+    {
+      "id": "c3f0034a2f22",
+      "title": "The Bayeux Tapestry",
+      "venue": "British Museum",
+      "url": "https://www.britishmuseum.org/exhibitions/bayeux-tapestry",
+      "start": "2026-09-10",
+      "end": "2027-07-11",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "ec4dc209bdd5",
+      "title": "German Expressionism",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/german-expressionism-modern-painting-1900-1918",
+      "start": "2027-03-18",
+      "end": "2027-08-01",
+      "dates": "18 March 2027 – 1 August 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "db6fffadd3bb",
+      "title": "The Nue Black Aesthetic",
+      "venue": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/the-nue-black-aesthetic",
+      "start": null,
+      "end": "2027-08-08",
+      "dates": "Book now: Until 8 August 2027",
+      "source": "Design Museum"
+    },
+    {
+      "id": "530e3153d6a2",
+      "title": "Summer Exhibition 2027",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/summer-exhibition-2027",
+      "start": "2027-05-18",
+      "end": "2027-08-15",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "4538b2291f28",
+      "title": "Matt Copson",
+      "venue": "Serpentine North Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/matt-copson/",
+      "start": "2027-04-29",
+      "end": "2027-08-22",
+      "dates": "29 April - 22 August 2027",
+      "source": "Serpentine"
+    },
+    {
+      "id": "6d7d7da5bcb9",
+      "title": "Sonia Boyce",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/sonia-boyce",
+      "start": "2027-03-26",
+      "end": "2027-08-22",
+      "dates": "26 Mar – 22 Aug 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "7f3965455f25",
+      "title": "Characters of Fashion",
+      "venue": "Barbican Art Gallery",
+      "url": "https://www.barbican.org.uk/whats-on/2027/event/characters-of-fashion",
+      "start": "2027-04-15",
+      "end": "2027-08-29",
+      "dates": "Thu 15 Apr — Sun 29 Aug 2027",
+      "source": "Barbican"
+    },
+    {
+      "id": "f4c5c0886db0",
+      "title": "Young Artists' Summer Show 2027",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/young-artists-summer-show-2027",
+      "start": "2027-07-13",
+      "end": "2027-08-29",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "c99d87f812ad",
+      "title": "Ink",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/ink",
+      "start": "2027-04-22",
+      "end": "2027-08-30",
+      "dates": "22 Apr – 30 Aug 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "81977a347c14",
+      "title": "Adrian Piper, I'm This Space: Selected Works 1967 - 2027",
+      "venue": "Serpentine South Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/adrian-piper-im-this-space-selected-works-1967-2027/",
+      "start": "2027-05-26",
+      "end": "2027-09-05",
+      "dates": "26 May - 5 September 2027",
+      "source": "Serpentine"
+    },
+    {
+      "id": "835cc788b642",
+      "title": "Collected",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/collected",
+      "start": "2027-05-22",
+      "end": "2027-09-05",
+      "dates": "22 May – 5 September 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "ff1f4c3068a1",
+      "title": "David Shrigley",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/david-shrigley/",
+      "start": "2027-05-25",
+      "end": "2027-09-05",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "54e8a71151bd",
+      "title": "Frankenthaler and Bassano",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/frankenthaler-and-bassano",
+      "start": "2027-06-17",
+      "end": "2027-09-05",
+      "dates": "17 June – 5 September 2027",
+      "source": "National Gallery"
+    },
+    {
+      "id": "2b567a304906",
+      "title": "Turner and the Landscape Generation: Journeys in Watercolour",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-turner-and-the-landscape-generation-journeys-in-watercolour/",
+      "start": "2027-06-18",
+      "end": "2027-09-05",
+      "dates": "18 June – 5 September 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "4872e346fb4b",
+      "title": "Rubens: The Master and his Circle",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-rubens-the-master-and-his-circle/",
+      "start": "2027-05-26",
+      "end": "2027-09-12",
+      "dates": "26 May – 12 September 2027",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "deacbaca6d69",
+      "title": "Rembrandt: Radical Printmaker",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/rembrandt",
+      "start": "2027-04-09",
+      "end": "2027-09-19",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "da123ac1521a",
+      "title": "Thomas Gainsborough",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/thomas-gainsborough",
+      "start": "2027-05-20",
+      "end": "2027-10-10",
+      "dates": "20 May – 10 Oct 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "954bcb05dd26",
+      "title": "Baya",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/baya",
+      "start": "2027-06-10",
+      "end": "2027-10-17",
+      "dates": "10 Jun – 17 Oct 2027",
+      "source": "Tate"
+    },
+    {
+      "id": "8793b7f71ff3",
+      "title": "Future Observatory: A Matter of Land",
+      "venue": "Design Museum",
+      "url": "https://designmuseum.org/exhibitions/future-observatory-a-matter-of-land",
+      "start": null,
+      "end": "2027-10-31",
+      "dates": "Free display: Until October 2027",
+      "source": "Design Museum"
+    },
+    {
+      "id": "d779af367f91",
+      "title": "Simone Leigh",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/simone-leigh",
+      "start": "2027-09-18",
+      "end": "2027-12-12",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "b4e6314f3331",
+      "title": "Nalini Malani",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/nalini-malani",
+      "start": "2027-07-01",
+      "end": "2028-01-09",
+      "dates": "1 Jul 2027 – 9 Jan 2028",
+      "source": "Tate"
+    },
+    {
+      "id": "18df58f312c7",
+      "title": "Anwar Jalal Shemza: A Circle, A Square, A Puzzle",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/anwar-shemza/",
+      "start": "2027-09-21",
+      "end": "2028-01-16",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "c0cfa998fcf1",
+      "title": "Georgia O’Keeffe: Photographs at Ghost Ranch",
+      "venue": "The Courtauld Gallery",
+      "url": "https://courtauld.ac.uk/whats-on/exh-georgia-okeeffe-life-at-ghost-ranch/",
+      "start": "2027-10-01",
+      "end": "2028-01-30",
+      "dates": "1 October 2027 – 30 January 2028",
+      "source": "The Courtauld"
+    },
+    {
+      "id": "d875331002bd",
+      "title": "Piero della Francesca",
+      "venue": "National Gallery",
+      "url": "https://www.nationalgallery.org.uk/exhibitions/piero-della-francesca",
+      "start": "2027-10-02",
+      "end": "2028-01-30",
+      "dates": "2 October 2027 – 30 January 2028",
+      "source": "National Gallery"
+    },
+    {
+      "id": "c93d173fad6e",
+      "title": "Serpentine x The Flag Foundation Prize: Gozo Yoshimasu",
+      "venue": "Serpentine North Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/serpentine-x-the-flag-foundation-prize-gozo-yoshimasu/",
+      "start": "2027-09-24",
+      "end": "2028-01-31",
+      "dates": "24 September 2027 - January 2028",
+      "source": "Serpentine"
+    },
+    {
+      "id": "8eaebec2219c",
+      "title": "Lisa Brice",
+      "venue": "Serpentine South Gallery",
+      "url": "https://www.serpentinegalleries.org/whats-on/lisa-brice/",
+      "start": "2027-10-08",
+      "end": "2028-02-06",
+      "dates": "8 October 2027 - 6 February 2028",
+      "source": "Serpentine"
+    },
+    {
+      "id": "4ad1369608b4",
+      "title": "David Hockney",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/david-hockney",
+      "start": "2027-10-07",
+      "end": "2028-02-20",
+      "dates": "7 Oct 2027 – 20 Feb 2028",
+      "source": "Tate"
+    },
+    {
+      "id": "30d332c6b623",
+      "title": "Lynda Benglis",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/lynda-benglis",
+      "start": "2027-09-30",
+      "end": "2028-03-05",
+      "dates": "30 Sep 2027 – 5 Mar 2028",
+      "source": "Tate"
+    },
+    {
+      "id": "26ce578e58f9",
+      "title": "Caroline Walker",
+      "venue": "Dulwich Picture Gallery",
+      "url": "https://www.dulwichpicturegallery.org.uk/whats-on/caroline-walker/",
+      "start": "2027-10-12",
+      "end": "2028-03-19",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "8e6f441cd4c7",
+      "title": "Matisse, Picasso, Klee: Masterpieces from the Museum Berggruen",
+      "venue": "Royal Academy of Arts",
+      "url": "https://www.royalacademy.org.uk/exhibition/matisse-picasso-klee",
+      "start": "2027-11-19",
+      "end": "2028-03-19",
+      "dates": "",
+      "source": "manual"
+    },
+    {
+      "id": "e471b2da70da",
+      "title": "Edvard Munch",
+      "venue": "Tate Modern",
+      "url": "https://www.tate.org.uk/whats-on/tate-modern/edvard-munch",
+      "start": "2027-11-11",
+      "end": "2028-04-16",
+      "dates": "11 Nov 2027 – 16 Apr 2028",
+      "source": "Tate"
+    },
+    {
+      "id": "430202576a6d",
+      "title": "The Tudors",
+      "venue": "Tate Britain",
+      "url": "https://www.tate.org.uk/whats-on/tate-britain/the-tudors",
+      "start": "2027-11-18",
+      "end": "2028-04-23",
+      "dates": "18 Nov 2027 – 23 Apr 2028",
+      "source": "Tate"
+    },
+    {
+      "id": "8c559eca74d0",
+      "title": "Chintz",
+      "venue": "V&A South Kensington",
+      "url": "https://www.vam.ac.uk/exhibitions/chintz",
+      "start": "2027-09-18",
+      "end": null,
+      "dates": "Opens Saturday, 18 September 2027",
+      "source": "V&A"
+    },
+    {
+      "id": "cbff68879428",
+      "title": "Punk to Pop",
+      "venue": "V&A South Kensington",
+      "url": "https://www.vam.ac.uk/exhibitions/punk-to-pop",
+      "start": "2027-03-13",
+      "end": null,
+      "dates": "Opens Saturday, 13 March 2027",
+      "source": "V&A"
+    },
+    {
+      "id": "30b7fb50247e",
+      "title": "Sculpture in Clay",
+      "venue": "V&A South Kensington",
+      "url": "https://www.vam.ac.uk/exhibitions/sculpture-in-clay",
+      "start": "2027-05-29",
+      "end": null,
+      "dates": "Opens Saturday, 29 May 2027",
+      "source": "V&A"
+    },
+    {
+      "id": "fe63fc456295",
+      "title": "South Asia Now: Fashion. Art. Design.",
+      "venue": "V&A East Museum",
+      "url": "https://www.vam.ac.uk/exhibitions/south-asia-now-fashion-art-design",
+      "start": "2027-04-24",
+      "end": null,
+      "dates": "Opens Saturday, 24 April 2027",
+      "source": "V&A"
+    }
+  ]
+}
