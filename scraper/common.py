@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from datetime import date
 from urllib.parse import urljoin, urlparse
 
-USER_AGENT = "ArtCatcherData/0.1 (monthly exhibition listings; +https://github.com/crabTofu/art-catcher-data)"
+USER_AGENT = "ArtJournalData/0.1 (monthly exhibition listings; +https://github.com/crabTofu/art-catcher-data)"
 MIN_DELAY = 3.0  # seconds between requests to the same host, unless robots.txt asks for more
 
 

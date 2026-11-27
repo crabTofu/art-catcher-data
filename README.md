@@ -1,6 +1,6 @@
-# Art Catcher data
+# Art Journal data
 
-Exhibition listings for the Art Catcher app's "What's on" tab, refreshed by hand about once a month. The app downloads `london/exhibitions.json`.
+Exhibition listings for the Art Journal app's "What's on" tab, refreshed by hand about once a month. The app downloads `london/exhibitions.json`.
 
 ## Refresh (monthly)
 
